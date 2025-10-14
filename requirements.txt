@@ -1,2 +1,3 @@
-Flask           # 用于创建 Web API
-yt-dlp          # 我们要执行的核心程序
+Flask==3.0.0
+gunicorn==21.2.0
+youtube-transcript-api==0.6.2
